@@ -1,6 +1,6 @@
 # InsecureSnake
 
-This is all the code to go along with my blog post: kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html
+This is all the code to go along with my blog post: [kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html](http://kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html)
 
 The point of this program was to recreate a story posted on gamasutra, where a live game was patched via a buffer overflow in the system that downloaded and displayed the EULA.
 
